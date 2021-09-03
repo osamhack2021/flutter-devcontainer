@@ -24,4 +24,4 @@ flutter run -d web-server --web-hostname=0.0.0.0
 flutter build apk
 ```
 
-Flutter 프로젝트 개발환경 구축 및 앱 빌드와 테스트에 관한 자세한 사항은, 별도로 전달 받으신 가이드 문서를 참고해 주시기 바랍니다.
+Flutter 프로젝트 개발환경 구축, 앱 개발, 빌드 테스트 등에 관한 자세한 사항은, 별도로 전달 받으신 가이드 문서와 [Flutter 공식 문서](https://flutter.dev/)를 참고해 주시기 바랍니다.
