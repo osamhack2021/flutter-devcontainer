@@ -2,7 +2,7 @@
 GitHub Codespace - Flutter 개발 환경 자동 생성 파일
 
 본 저장소를 활용하여 Flutter 개발 환경이 모두 설정 되어 있는 GitHub Codespace 를 바로 생성할 수 있습니다.  
-Flutter 개발 환경이 설정된 Codespace 를 설정 하려면 아래 절치를 수행합니다.
+Flutter 개발 환경이 설정된 Codespace 를 설정 하려면 아래 절차를 수행합니다.
 
 ## 저장소 및 Codespace 생성
 - [여기를 클릭하여 본 저장소를 템플릿으로 새 저장소를 생성합니다.](https://github.com/osamhack2021/flutter-devcontainer/generate)
